@@ -1,0 +1,12 @@
+Grande Corolla 2016 2500 Available
+Mehran Hatchback 2009 5000 Available
+Corolla Sedan 2015 8000 Rented
+Civic Sedan 2018 10000 Available
+Cultus Hatchback 2017 6000 Available
+City Sedan 2019 11000 Available
+BRV SUV 2021 18000 Available
+Yaris Sedan 2022 13000 Available
+Alto Hatchback 2020 5000 Available
+Fortuner SUV 2023 25000 Available
+Sportage SUV 2021 22000 Available
+sonata sedan 2025 22222 Available
